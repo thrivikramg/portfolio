@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thrivikramg/portfolio/static/css/main.1d1cd144.css",
+    "main.js": "/thrivikramg/portfolio/static/js/main.aa2a3870.js",
+    "static/js/453.53cb6ab8.chunk.js": "/thrivikramg/portfolio/static/js/453.53cb6ab8.chunk.js",
+    "static/media/home.jpg": "/thrivikramg/portfolio/static/media/home.7321c23432ce47cffb77.jpg",
+    "static/media/luffy.jpg": "/thrivikramg/portfolio/static/media/luffy.7e5f40f84df0959c16c4.jpg",
+    "static/media/songs.jpg": "/thrivikramg/portfolio/static/media/songs.8e8bfe172a78d7afa306.jpg",
+    "static/media/Free2Go.png": "/thrivikramg/portfolio/static/media/Free2Go.86a468f71ea1be345570.png",
+    "static/media/miles.jpg": "/thrivikramg/portfolio/static/media/miles.4c3dd51e5f573f1aa31a.jpg",
+    "static/media/Meemes_maamey.jpg": "/thrivikramg/portfolio/static/media/Meemes_maamey.a97aecbd18c963cfa07d.jpg",
+    "static/media/linkedin.png": "/thrivikramg/portfolio/static/media/linkedin.68ac41e1459436bfd38f.png",
+    "static/media/github.svg": "/thrivikramg/portfolio/static/media/github.b524de2e8aae6b69c252057caa52a771.svg",
+    "index.html": "/thrivikramg/portfolio/index.html",
+    "main.1d1cd144.css.map": "/thrivikramg/portfolio/static/css/main.1d1cd144.css.map",
+    "main.aa2a3870.js.map": "/thrivikramg/portfolio/static/js/main.aa2a3870.js.map",
+    "453.53cb6ab8.chunk.js.map": "/thrivikramg/portfolio/static/js/453.53cb6ab8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d1cd144.css",
+    "static/js/main.aa2a3870.js"
+  ]
+}
